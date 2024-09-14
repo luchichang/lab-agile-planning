@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-** As a **  [role]
-** I need **  [function]
-** so that **  [benefit]  # business benefit
+ **As a** [role]  
+ **I need** [function]  
+ **So that** [benefit]    # business benefit
 
 ## Details and Assumptions
 
